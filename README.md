@@ -1,5 +1,9 @@
 # UWAFT Car HMI
 
+Simulation of a concept in-car infotainment system for the General Motors EcoCar3 Competition.
+
+![main screenshot](https://raw.github.com/davidsalib/UWAFT_HML/master/screenshots/shot_1.png)
+
 To launch the simulation:
 * Have Quartz Composer and Facebook's Origami (https://facebook.github.io/origami/)  installed on your Mac. 
 * Open the file interactive.qtz

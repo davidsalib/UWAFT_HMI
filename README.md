@@ -3,6 +3,11 @@
 (Interactivity implemented with Quartz Composer and Facebook's Origami)
 ![main screenshot](https://raw.github.com/davidsalib/UWAFT_HMI/master/screenshots/shot_1.png)
 
+Interactions: 
+* Most buttons are interactable 
+* Long press anywhere in the top widget to switch widgets 
+* Scroll through the music list 
+
 To launch the simulation:
 * Have Quartz Composer and Facebook's Origami (https://facebook.github.io/origami/)  installed on your Mac. 
 * Open the file interactive.qtz

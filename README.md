@@ -15,7 +15,8 @@
 * 
 ##Simulation of a concept in-car infotainment system for the General Motors EcoCar3 Competition.
 (Interactivity implemented with Quartz Composer and Facebook's Origami)
-![main screenshot](https://raw.github.com/davidsalib/UWAFT_HMI/master/screenshots/shot_1.png =300x)
+
+<img src="https://raw.github.com/davidsalib/UWAFT_HMI/master/screenshots/shot_1.png" alt="Drawing" style="width: 200px;"/>
 
 
 
